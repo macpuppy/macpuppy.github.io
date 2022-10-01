@@ -1,0 +1,26 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 28 Nov 2019 02:51:09 at https://www.unikexploral.com +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.unikexploral.com -O1 "C:\My Web Sites\donald1" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+02:51:30	Error: 	"Not Found" (404) at link https://www.unikexploral.com/fonts/glyphicons-halflings-regular.eot (from https://www.unikexploral.com/css/bootstrap.css)
+02:51:30	Error: 	"Not Found" (404) at link https://www.unikexploral.com/fonts/glyphicons-halflings-regular.eot? (from https://www.unikexploral.com/css/bootstrap.css)
+02:51:30	Error: 	"Not Found" (404) at link https://www.unikexploral.com/fonts/glyphicons-halflings-regular.ttf (from https://www.unikexploral.com/css/bootstrap.css)
+02:51:30	Error: 	"Not Found" (404) at link https://www.unikexploral.com/fonts/glyphicons-halflings-regular.svg (from https://www.unikexploral.com/css/bootstrap.css)
+02:51:30	Error: 	"Not Found" (404) at link https://www.unikexploral.com/images/right-1.png (from https://www.unikexploral.com/css/style.css)
+02:51:30	Error: 	"Not Found" (404) at link https://www.unikexploral.com/images/close.png (from https://www.unikexploral.com/css/style.css)
+02:51:30	Error: 	"Not Found" (404) at link https://www.unikexploral.com/images/left.png (from https://www.unikexploral.com/css/style.css)
+02:51:30	Error: 	"Not Found" (404) at link https://www.unikexploral.com/images/right.png (from https://www.unikexploral.com/css/style.css)
+02:51:31	Error: 	"Not Found" (404) at link https://www.unikexploral.com/images/2.jpg (from https://www.unikexploral.com/about)
+02:51:33	Error: 	"Not Found" (404) at link https://www.unikexploral.com/js/Chart.js (from https://www.unikexploral.com/account)
+02:51:33	Error: 	"Not Found" (404) at link https://www.unikexploral.com/images/tick.png (from https://www.unikexploral.com/css/style-login.css)
+02:51:33	Error: 	"Not Found" (404) at link https://www.unikexploral.com/images/i1.png (from https://www.unikexploral.com/css/style-login.css)
+02:51:33	Error: 	"Not Found" (404) at link https://www.unikexploral.com/images/i2.png (from https://www.unikexploral.com/css/style-login.css)
+02:51:33	Error: 	"Not Found" (404) at link https://www.unikexploral.com/images/i4.png (from https://www.unikexploral.com/css/style-login.css)
+02:51:33	Error: 	"Not Found" (404) at link https://www.unikexploral.com/images/1.jpg (from https://www.unikexploral.com/css/style-login.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 24 seconds : 48 links scanned, 32 files written (2418600 bytes overall) [2427491 bytes received at 101145 bytes/sec], 12523 bytes transferred using HTTP compression in 1 files, ratio 28%, 12.0 requests per connection
+(15 errors, 0 warnings, 0 messages)
